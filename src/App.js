@@ -9,14 +9,7 @@ function App() {
         <p>
           Missing you
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-         a looot
-        </a>
+        
       </header>
     </div>
   );
